@@ -6,7 +6,7 @@ Hand-written HTML, CSS and vanilla JavaScript. No frameworks, no build step, no 
 
 ## Live site
 
-https://gifttsithole1-web.github.io/denzel-mathiba-portfolio/
+https://graymathiba.github.io/denzel-mathiba-portfolio/
 
 ## Contents
 
